@@ -5,7 +5,11 @@ import "./App.css";
 import ThreeDSquare from './ThreeDSquare';
 =======
 import myImage from '/home/n/Documents/test_git/test1/src/1.jpeg';
+<<<<<<< HEAD
 >>>>>>> 5c860a1 (update_nati)
+=======
+import ThreeDSquare from './ThreeDSquare';
+>>>>>>> 3d55563 (add 3D squar)
 
 function App() {
   return (
@@ -30,8 +34,13 @@ function App() {
       style={{ width: '1700px', height: '1000px' }}
       />
     </div>
+    <div>
+      <h1>My 3D Square</h1>
+      <ThreeDSquare />
+    </div>
         
       </header>
+<<<<<<< HEAD
 >>>>>>> 5c860a1 (update_nati)
     </div>
     <div>
@@ -43,6 +52,8 @@ function App() {
           aaron, you are a <h1>moron!!</h1>
         </p>
       </header>
+=======
+>>>>>>> 3d55563 (add 3D squar)
       </div>
     )
     }
