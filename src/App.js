@@ -10,7 +10,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to <h1>Test Git</h1>
+<<<<<<< HEAD
           repository!!!
+=======
+          repository of netanel krakover!!
+>>>>>>> ea946bb (my first changes)
         </p>
         <div>
       {/* <img src={myImage} alt="My Image" 
