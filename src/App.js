@@ -1,6 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a6e21c3 (add 3d square)
 // import myImage from '/home/n/Documents/test_git/test1/src/1.jpeg';
 import ThreeDSquare from './ThreeDSquare';
 =======
@@ -26,6 +29,7 @@ function App() {
         </p>
         <div>
 <<<<<<< HEAD
+<<<<<<< HEAD
       {/* <img src={myImage} alt="My Image" 
       style={{ width: '1700px', height: '1000px' }} */}
       {/* //> */}
@@ -33,6 +37,11 @@ function App() {
       <img src={myImage} alt="My Image" 
       style={{ width: '1700px', height: '1000px' }}
       />
+=======
+      {/* <img src={myImage} alt="My Image" 
+      style={{ width: '1700px', height: '1000px' }} */}
+      {/* //> */}
+>>>>>>> a6e21c3 (add 3d square)
     </div>
     <div>
       <h1>My 3D Square</h1>
